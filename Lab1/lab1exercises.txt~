@@ -1,0 +1,21 @@
+(A):
+
+typed :Desktop/MEET-YL2/Lab1/y2-yearlong-django-review/toplists python manage.py syncdb
+
+and then Desktop/MEET-YL2/Lab1/y2-yearlong-django-review/toplists python manage.py runserver
+
+and went to http://127.0.0.1:8000/movies
+
+(B):
+http://127.0.0.1:8000/movies/2/
+http://127.0.0.1:8000/movies/3/
+the difference in the url is the number of the movie even if you add 100 movies
+
+(C):
+def add_movie gets called
+def movie gets called
+page not found (404)
+
+* finished task number 1 and almost 2
+
+
