@@ -1,0 +1,7 @@
+I really liked the idea for your project, and I am really glad that you read a bunch of TinyWebDB tutorials to try and make the project happen. Unfortunately, the fact that you were not able to connect the phone to your computer showed in your app - I can’t play the game. The TinyWebDB is not a super-easy thing to get working, so I’m glad that you tried. 
+
+Looking at your screenshots, my best guess as to the first thing that went wrong is that you are setting your variable button11click to True or False instead of to 1 like you think you are. To set the value of button11click to 1, all you need to do is set global button11click to number 1 (you don’t need the global button11click). This is definitely the start of your problems, since the rest of your code is based on this variable button11click. Unfortunately, I can’t play your game because there might be other problems with the app. 
+
+I do like the design a lot - it is very easy to use and very clear what exactly I am supposed to do to play the game, so you don’t need any other instructions for the user. 
+
+If you want to work on your app (me or Tal can help you) to finish it to a point where you are happy showing off this app, I am more than happy to help you continue this and find all the bugs. Great work so far on the app.
